@@ -4,7 +4,7 @@ Data visualization tutorial created using R for the undergraduate class "Statist
 
 Data sets and Libraries Used:
 
-http://users.stat.ufl.edu/%7Ewinner/data/nba_ht_wt.csv
-tidyverse
-fivethirtyeight
-babynames
+http://users.stat.ufl.edu/%7Ewinner/data/nba_ht_wt.csv <br/>
+tidyverse<br/>
+fivethirtyeight (college_all_ages) (bechdel)<br/>
+babynames<br/>
